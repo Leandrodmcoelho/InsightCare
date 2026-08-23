@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 <div class="sidebar">
   <h2>Insight Care</h2>
   <a href="/">Home</a>
