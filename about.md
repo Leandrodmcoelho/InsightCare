@@ -1,5 +1,9 @@
 # Sobre mim
 
-Sou o Leandro, Patient Care Coordinator, com mais de 10 anos de experiência a acompanhar pessoas em contextos de saúde. Em 2025 recebi o prémio Best Fertility Patient Care Assistant, reconhecimento que reforçou a importância de um cuidado atento, humano e centrado nos detalhes.
+Olá, eu sou o Leandro Coelho,
 
-No Insight Care partilho reflexões, práticas e experiências que promovem um atendimento mais autêntico, eficaz e respeitoso.
+No Insight Care, partilho reflexões e práticas que colocam a pessoa no centro do cuidado, com foco na qualidade, respeito e eficácia no atendimento
+
+Depois de mais de 10 anos a acompanhar pessoas e de receber o prémio Best Fertility Patient Care Assistant 2025, aprendi que o verdadeiro cuidado está nos detalhes e na forma como nos ligamos aos outros.
+
+Aqui vais encontrar reflexões e experiências para inspirar um atendimento mais humano e autêntico.
