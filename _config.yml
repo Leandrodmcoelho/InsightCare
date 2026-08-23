@@ -1,3 +1,5 @@
 title: #Insight Care
 description: Reflexões e práticas para um atendimento em saúde mais humano, eficaz e centrado na pessoa.
 theme: jekyll-theme-minimal
+include:
+  - assets
